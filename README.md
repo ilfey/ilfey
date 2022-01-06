@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JQweenq&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JQweenq&text_color=fff&bg_color=30,e96443,904e95&title_color=fff&hide_border=enable)
 
 ## 🔗 Links
 
