@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JQweenq&layout=compact&theme=dark)
+
 ## 🔗 Links
 
 [![VK](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/jqweenq)
