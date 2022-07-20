@@ -5,7 +5,7 @@
 ## Libraries
 
 [![saucenao.js](https://github-readme-stats.vercel.app/api/pin/?username=JQweenq&repo=SauceNao.js&card_width=500&hide_border=enable&theme=cobalt)](https://github.com/JQweenq/SauceNao.js)
-
+[![wysi.js](https://github-readme-stats.vercel.app/api/pin/?username=JQweenq&repo=wysi.js&card_width=500&hide_border=enable&theme=cobalt)](https://github.com/JQweenq/SauceNao.js)
 ## Links
 
 [![VK](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/jqweenq)
