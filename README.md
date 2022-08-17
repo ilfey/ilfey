@@ -1,11 +1,11 @@
-![stats](https://github-readme-stats.vercel.app/api?username=JQweenq&text_color=ddd&bg_color=30,e96443,904e95&show_icons=true&hide_border=enable&locale=ru&card_width=500&count_private=true&disable_animations=true&include_all_commits=true)
+![stats](https://github-readme-stats.vercel.app/api?username=JQweenq&text_color=ddd&bg_color=00000000&show_icons=true&hide_border=enable&locale=ru&card_width=500&count_private=true&disable_animations=true&include_all_commits=true)
 
-![languaches](https://github-readme-stats.vercel.app/api/top-langs/?username=JQweenq&text_color=fff&bg_color=30,e96443,904e95&hide_border=enable&locale=ru&card_width=500&langs_count=10)
+![languaches](https://github-readme-stats.vercel.app/api/top-langs/?username=JQweenq&text_color=ddd&bg_color=00000000&hide_border=enable&locale=ru&card_width=500&langs_count=10)
 
 ## Libraries
 
-[![saucenao.js](https://github-readme-stats.vercel.app/api/pin/?username=JQweenq&repo=SauceNao.js&card_width=500&hide_border=enable&theme=cobalt)](https://github.com/JQweenq/SauceNao.js)
-[![wysi.js](https://github-readme-stats.vercel.app/api/pin/?username=JQweenq&repo=wysi.js&card_width=500&hide_border=enable&theme=cobalt)](https://github.com/JQweenq/SauceNao.js)
+[![saucenao.js](https://github-readme-stats.vercel.app/api/pin/?username=JQweenq&repo=SauceNao.js&text_color=ddd&bg_color=00000000&card_width=500&hide_border=enable)](https://github.com/JQweenq/SauceNao.js)
+
 ## Links
 
 [![VK](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/jqweenq)
