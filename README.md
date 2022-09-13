@@ -4,3 +4,7 @@
 ## Libraries
 
 [![saucenao.js](https://github-readme-stats.vercel.app/api/pin/?username=ilfey&repo=SauceNao.js&icon_color=007fff&title_color=007fff&text_color=888&bg_color=00000000&card_width=500&hide_border=enable)](https://github.com/ilfey/SauceNao.js)
+
+## Contacts
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/696281292408619039?bg=00000000)](https://discord.com/users/696281292408619039)
